@@ -1,0 +1,30 @@
+﻿MBST Fix Results Log Version: 1.9.11.1017
+Date/Time Log Created: 2024-07-21 23:56:16.362
+User Account Type: Admin
+Operating System: Windows 10 Version 2009 x64
+
+2024-07-21 23:56:16.486   Repair 1: Firewall
+2024-07-21 23:56:16.486   =========================
+2024-07-21 23:56:16.486   Starting Firewall repair process.
+2024-07-21 23:56:16.486   Unable to open service mpssvc. Error: Access is denied.(error=5)
+2024-07-21 23:56:16.486   Stopping Windows Firewall service.
+2024-07-21 23:56:16.486   Resetting service configuration for Windows Firewall service.
+2024-07-21 23:56:16.486   Restoring default registry settings
+2024-07-21 23:56:16.635   Failed to restore the default service hive file. ERROR: Element not found.(error=1168)
+2024-07-21 23:56:16.720   Unable to open service mpsdrv. Error: Access is denied.(error=5)
+2024-07-21 23:56:16.720   Stopping Windows Firewall Authorization driver.
+2024-07-21 23:56:16.720   Stopping Internet Connection Sharing service.
+2024-07-21 23:56:16.720   Resetting configuration for Internet Connection Sharing service.
+2024-07-21 23:56:16.721   Restoring default registry settings
+2024-07-21 23:56:16.827   Failed to restore the default service hive file. ERROR: Element not found.(error=1168)
+2024-07-21 23:56:16.839   Scanning C:\Windows\system32\mpssvc.dll
+2024-07-21 23:56:17.016   Windows Resource Protection did not find any integrity violations.
+2024-07-21 23:56:17.016   Scanning C:\Windows\system32\ipnathlp.dll
+2024-07-21 23:56:17.045   Windows Resource Protection did not find any integrity violations.
+2024-07-21 23:56:17.069   Attempting to start mpssvc service
+2024-07-21 23:56:17.069   Attempting to start mpsdrv service
+2024-07-21 23:56:17.069   Attempting to start sharedaccess service
+2024-07-21 23:56:17.075   Attempted to start service successfully
+2024-07-21 23:56:17.075   Attempting to start mpssvc service
+2024-07-21 23:56:17.075   mpssvc service is running.
+
