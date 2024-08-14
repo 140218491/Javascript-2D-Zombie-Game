@@ -5,14 +5,10 @@
 <p align="center">
   Javascript-2D-Zombie-Game
   <br />
-  <a href="https://github.com/140218491/Non-Virtualized-Anti-Debug-Tool"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/140218491/Javascript-2D-Zombie-Game"><strong>Explore the docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/140218491/Non-Virtualized-Anti-Debug-Tool">View Demo</a>
-  ·
-  <a href="https://github.com/140218491/Non-Virtualized-Anti-Debug-Tool/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-  ·
-  <a href="https://github.com/140218491/Non-Virtualized-Anti-Debug-Tool/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+
 </p>
 </div>
 <!-- TABLE OF CONTENTS -->
